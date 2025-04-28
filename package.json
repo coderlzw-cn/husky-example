@@ -1,0 +1,32 @@
+{
+  "name": "husky-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderlzw-cn/husky-example.git"
+  },
+  "scripts": {
+    "prepare": "husky",
+    "commit": "git add . && git-cz",
+    "release": "semantic-release --no-ci",
+    "release:ci": "semantic-release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^12.0.1",
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "cz-customizable": "^7.4.0",
+    "husky": "^9.1.7",
+    "semantic-release": "^24.2.3"
+  }
+}
