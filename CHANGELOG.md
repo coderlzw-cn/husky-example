@@ -1,3 +1,17 @@
+# 1.0.0 (2025-04-28)
+
+
+### Bug Fixes
+
+* **merge:** 第二次修复bug ([7f9026e](https://github.com/coderlzw-cn/husky-example/commit/7f9026e326a28bed35208088c2edaa9acc8c003b))
+
+
+### Features
+
+* **ui:** 发布一个版本-0001 ([0862ddd](https://github.com/coderlzw-cn/husky-example/commit/0862ddd00208ae4e4f9c190d3ee535470e2ab6fb))
+* **ui:** 发布版本22-----0001 ([560fbce](https://github.com/coderlzw-cn/husky-example/commit/560fbcee9eb53d6140f3ee71fdad13d8a82d853d))
+* **ui:** 第一次UI提交 ([ebdf80b](https://github.com/coderlzw-cn/husky-example/commit/ebdf80b0f539f162e41f82200a8ac51e637a1ad0))
+
 # [1.2.0](https://github.com/coderlzw-cn/husky-example/compare/v1.1.0...v1.2.0) (2025-04-27)
 
 
