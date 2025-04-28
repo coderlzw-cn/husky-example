@@ -1,6 +1,6 @@
 {
   "name": "husky-example",
-  "version": "1.0.0",
+  "version": "x.0.0000000000009",
   "description": "",
   "main": "index.js",
   "private": false,
@@ -8,9 +8,7 @@
     "type": "git",
     "url": "https://github.com/coderlzw-cn/husky-example.git"
   },
-  "publishConfig": {
-    "access": "public"
-  },
+ 
   "scripts": {
     "prepare": "husky",
     "commit": "git add . && git-cz",
