@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/coderlzw-cn/husky-example.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "prepare": "husky",
     "commit": "git add . && git-cz",
